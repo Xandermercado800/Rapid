@@ -301,7 +301,7 @@ module.exports = function Cloudflare() {
     'rsa_pss_rsae_sha512',
     'rsa_pkcs1_sha256',
     'rsa_pkcs1_sha384',
-    'rsa_pkcs1_sha512'
+    'rsa_pkcs1_sha512',
     'ecdsa_secp256r1_sha256',
     'ecdsa_brainpoolP256r1tls13_sha256',
     'ecdsa_brainpoolP384r1tls13_sha384',
